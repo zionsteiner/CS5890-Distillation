@@ -15,3 +15,5 @@ positive results. After a successful version of the distillation process is impl
 work on augmenting it with other methods of model compression, such as weight pruning, quantization, and Hoffman encoding.
 
 See Poster.pptx in the docs/ folder for more info on the results of this project.
+
+NOTE: The 'Knowledge' folder is the reference code I used for this project and is not mine. The original source of that code can be found [here](https://github.com/Ujjwal-9/Knowledge-Distillation). Specifically, I used Keras ImageDataGenerator objects that are modified to output teacher logits alongside image data.
