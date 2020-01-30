@@ -20,4 +20,4 @@ All Jupyter notebooks with 'mnist' in the name are from my initial attempts at r
 
 NOTE: The 'Knowledge' folder is the reference code I used for this project and is not mine. The original source of that code can be found [here](https://github.com/Ujjwal-9/Knowledge-Distillation). Specifically, I used Keras ImageDataGenerator objects that are modified to output teacher logits alongside image data
 
-!(docs/Poster.png)
+![](docs/Poster.png)
