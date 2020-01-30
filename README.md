@@ -18,4 +18,6 @@ See Poster.pptx in the docs/ folder for more info on the results of this project
 
 All Jupyter notebooks with 'mnist' in the name are from my initial attempts at replicating the disitllation process as documented [here](https://arxiv.org/abs/1503.02531). This was the only case where I was able to show that distillation works.
 
-NOTE: The 'Knowledge' folder is the reference code I used for this project and is not mine. The original source of that code can be found [here](https://github.com/Ujjwal-9/Knowledge-Distillation). Specifically, I used Keras ImageDataGenerator objects that are modified to output teacher logits alongside image data.
+NOTE: The 'Knowledge' folder is the reference code I used for this project and is not mine. The original source of that code can be found [here](https://github.com/Ujjwal-9/Knowledge-Distillation). Specifically, I used Keras ImageDataGenerator objects that are modified to output teacher logits alongside image data
+
+!(docs/Poster.png)
